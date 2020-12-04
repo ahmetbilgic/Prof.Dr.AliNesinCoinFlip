@@ -1,5 +1,7 @@
 
-#Prof.Dr Ali NESİN'in https://www.youtube.com/watch?v=WAL0HA8TYSI videosunda bahsetttiği ve bu bağlamda matematiğin temellerini ve felsefesini anlattığı oyun olan Yazı-Tura oyunu. 
+# Prof.Dr Ali NESİN'in https://www.youtube.com/watch?v=WAL0HA8TYSI videosunda bahsetttiği 
+
+ve bu bağlamda matematiğin temellerini ve felsefesini anlattığı oyun olan Yazı-Tura oyunu. 
 
 Bozuk parayı havaya atıyoruz yazı geldikçe 1 puan arttırıyor ve oyunumuza devam ediyoruz eğer tura gelirse oyunumuz bitiyor.
 
