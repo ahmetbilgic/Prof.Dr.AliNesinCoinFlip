@@ -9,7 +9,7 @@ Bozuk parayı havaya atıyoruz yazı geldikçe 1 puan arttırıyor ve oyunumuza 
 
 Örnek2:Attınız Tura geldi oyun bitti ve 1 puan kazandınız.
 
-Bu oyunun puan ortalaması kaçtır?
+# Bu oyunun puan ortalaması kaçtır?
 
 Sorusunun cevabını bu basit kod dizisiyle bir test etmek istedim.
 
